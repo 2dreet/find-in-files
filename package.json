@@ -1,0 +1,11 @@
+{
+  "name": "DocumentFinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "docx4js": "^3.2.17",
+    "officeparser": "^2.2.2",
+    "uuidv4": "^6.2.12"
+  }
+}
